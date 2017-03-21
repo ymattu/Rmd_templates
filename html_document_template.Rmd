@@ -1,0 +1,17 @@
+---
+title: "Untitled"
+author: "Yuya Matsumura"
+date: "`r format(Sys.time(), '%Y/%m/%d')`"
+output: html_document
+---
+```{r eval=TRUE, echo=FALSE, warning=FALSE, message=FALSE, comment=""}
+knitr::opts_chunk$set(echo = TRUE,
+                      eval = TRUE,
+                      warning = FALSE,
+                      message = FALSE,
+                      comment = "",
+                      fig.height = 7,
+                      fig.width = 7,
+                      out.height = 400,
+                      out.width = 400)
+```
