@@ -43,4 +43,4 @@ knitr::opts_chunk$set(echo = TRUE,
 </div>
 
 <div class="column2">
-![icon](./slide_img/twitter_icon.jpg)
+![icon](../slide_img/twitter_icon.jpg)
